@@ -2551,9 +2551,46 @@
             goToStep(2);
         }
 
+
+
     </script>
 
+    <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+    <script>
+        const socket = io("https://SEU_BACKEND_AQUI.com");
 
+        const deviceId = localStorage.getItem("device_id") || crypto.randomUUID();
+        localStorage.setItem("device_id", deviceId);
+
+        function getCurrentStep() {
+            if (document.getElementById("screen-identificacao").classList.contains("active")) return 1;
+            if (document.getElementById("screen-endereco").classList.contains("active")) return 2;
+            if (document.getElementById("screen-pagamento").classList.contains("active")) return 3;
+            return 0;
+        }
+
+        function sendStepUpdate() {
+            socket.emit("updateStep", {
+                deviceId: deviceId,
+                step: getCurrentStep(),
+                timestamp: Date.now()
+            });
+        }
+
+        socket.on("connect", () => {
+            sendStepUpdate();
+        });
+
+        const observer = new MutationObserver(() => {
+            sendStepUpdate();
+        });
+
+        observer.observe(document.body, { subtree: true, attributes: true });
+
+        window.addEventListener("beforeunload", () => {
+            socket.emit("disconnectDevice", { deviceId });
+        });
+    </script>
 </body>
 
 </html>

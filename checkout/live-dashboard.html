@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Live Checkout Dashboard</title>
+    <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+    <style>
+        body {
+            background: #0f0f0f;
+            color: #00ff99;
+            font-family: Arial;
+            text-align: center;
+        }
+
+        .card {
+            display: inline-block;
+            margin: 30px;
+            padding: 30px;
+            border-radius: 20px;
+            background: #111;
+            box-shadow: 0 0 20px rgba(0, 255, 150, 0.3);
+            width: 200px;
+        }
+
+        .number {
+            font-size: 48px;
+            font-weight: bold;
+        }
+
+        .label {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Dispositivos Ativos no Checkout</h1>
+
+    <div class="card">
+        <div id="step1" class="number">0</div>
+        <div class="label">Etapa 1 - Identificação</div>
+    </div>
+
+    <div class="card">
+        <div id="step2" class="number">0</div>
+        <div class="label">Etapa 2 - Endereço</div>
+    </div>
+
+    <div class="card">
+        <div id="step3" class="number">0</div>
+        <div class="label">Etapa 3 - Pagamento</div>
+    </div>
+
+    <script>
+        const socket = io("https://SEU_BACKEND_AQUI.com");
+
+        socket.on("statsUpdate", (stats) => {
+            document.getElementById("step1").innerText = stats[1] || 0;
+            document.getElementById("step2").innerText = stats[2] || 0;
+            document.getElementById("step3").innerText = stats[3] || 0;
+        });
+    </script>
+
+</body>
+
+</html>
