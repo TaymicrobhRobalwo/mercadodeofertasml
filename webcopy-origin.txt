@@ -1,0 +1,112 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ajax\libs\font-awesome\6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+Content Type: font/ttf
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\index.htm
+Content Type: text/html
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/camera1.png
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\camera1.png
+Content Type: image/png
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/camera2.png
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\camera2.png
+Content Type: image/png
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/camera3.png
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\camera3.png
+Content Type: image/png
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/camera4.png
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\camera4.png
+Content Type: image/png
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/logo.png
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\logo.png
+Content Type: image/png
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/logo1.png
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\logo1.png
+Content Type: image/png
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/logo_mp.svg
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\logo_mp.svg
+Content Type: image/svg+xml
+
+Uri: https://mercadodeofertasml.shop/ml/produtos/camera/images/pagamentos.webp
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\ml\produtos\camera\images\pagamentos.webp
+Content Type: image/webp
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=882389557991185&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\mercadodeofertasml.shop\tr
+Content Type: text/plain
+
